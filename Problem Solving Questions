@@ -1,0 +1,434 @@
+Problem solving Questions : 
+
+1. Sum of Array Elements
+Problem: Write a program that takes an array of integers and returns the sum of all the elements.
+
+Sample Input: [1, 2, 3, 4, 5]
+Sample Output: 15
+-------------------------------------------------------------------------------------------------------------
+2. Find Maximum and Minimum in an Array
+Problem: Write a Java program to find the largest and smallest number in an array.
+
+Sample Input: [23, 45, 67, 12, 89, 2]
+Sample Output: Max: 89, Min: 2
+-------------------------------------------------------------------------------------------------------------
+
+3. Reverse an Array
+Problem: Write a program that reverses the elements of an array in-place (without using another array).
+
+Sample Input: [1, 2, 3, 4]
+Sample Output: [4, 3, 2, 1]
+-------------------------------------------------------------------------------------------------------------
+
+4. Count Even and Odd Numbers
+Problem: Count how many even and odd numbers are in the array.
+
+Sample Input: [3, 6, 7, 2, 9]
+Sample Output: Even: 2, Odd: 3
+-------------------------------------------------------------------------------------------------------------
+
+5. Second Largest Element
+Problem: Write a program to find the second largest element in an array.
+
+Sample Input: [4, 1, 3, 9, 7]
+Sample Output: Second Largest: 7
+-------------------------------------------------------------------------------------------------------------
+
+6. Left Rotate an Array by 1 Position
+Problem: Rotate an array to the left by one position.
+
+Sample Input: [1, 2, 3, 4, 5]
+Sample Output: [2, 3, 4, 5, 1]
+-------------------------------------------------------------------------------------------------------------
+
+7. Check if Array is Sorted
+Problem: Write a program to check if an array is sorted in ascending order.
+
+Sample Input: [1, 2, 3, 4, 5]
+Sample Output: true
+-------------------------------------------------------------------------------------------------------------
+
+8. Frequency of Each Element
+Problem: Print the frequency of each unique element in the array.
+
+Sample Input: [1, 2, 2, 3, 3, 3]
+Sample Output:
+
+1 -> 1  
+2 -> 2  
+3 -> 3
+-------------------------------------------------------------------------------------------------------------
+
+9. Find Duplicate Elements
+Problem: Identify and print duplicate values in an array.
+
+Sample Input: [4, 3, 6, 3, 4, 7]
+Sample Output: Duplicate elements: 3, 4
+-------------------------------------------------------------------------------------------------------------
+
+10. Move All Zeros to End
+Problem: Given an array, move all 0s to the end without changing the order of non-zero elements.
+
+Sample Input: [0, 1, 0, 3, 12]
+Sample Output: [1, 3, 12, 0, 0]
+-------------------------------------------------------------------------------------------------------------
+
+
+11. Prime or Not
+
+12. Primes from given Number
+
+13.Primes within Range
+
+14. Prime Numbers upto Given Range
+
+15. Palindrome
+
+16. Fibonacci
+
+17. Factorial
+
+18. Armstrong
+
+19. Reverse of a String
+
+20. Reverse of a Number
+
+21. Neon
+
+22. Ascending order of an array.{Small to Large }
+
+23. Descending order of an array.{ Large to Small }
+
+24. Remove Duplicate values from int array.
+
+25 . Duplicate char from String & count them . 
+
+26. Remove Duplicate from String array.
+-------------------------------------------------------------------------------------------------------------
+
+
+27.
+
+* 
+* * 
+* * * 
+* * * * 
+* * * 
+* * 
+* 
+
+28.
+ 
+******
+*****
+****
+***
+**
+*
+**
+***
+****
+*****
+******
+
+29.
+
+
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+16 17 18 19 20 21 
+
+
+
+30.
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+
+
+31.
+
+1 2 3 4 5 6 
+ 2 3 4 5 6 
+  3 4 5 6 
+   4 5 6 
+    5 6 
+     6 
+
+
+
+32.
+
+1 2 3 4 5 6 
+ 2 3 4 5 6 
+  3 4 5 6 
+   4 5 6 
+    5 6 
+     6 
+    5 6 
+   4 5 6 
+  3 4 5 6 
+ 2 3 4 5 6 
+1 2 3 4 5 6 
+
+
+
+33.
+
+***********
+ *       *
+  *     *
+   *   *
+    * *
+     *
+
+
+34.
+
+     *
+    * *
+   *   *
+  *     *
+ *       *
+*         *
+ *       *
+  *     *
+   *   *
+    * *
+     *
+
+
+35.
+
+* * * * * * 
+ *       * 
+  *     * 
+   *   * 
+    * * 
+     * 
+    * * 
+   *   * 
+  *     * 
+ *       * 
+* * * * * * 
+-------------------------------------------------------------------------------------------------------------
+
+
+36. Create a new array by removing elements 1 & 54 from above array
+ 	 [ output:[12,34,-2,21,-9,12,34] ]
+-------------------------------------------------------------------------------------------------------------
+
+37.  Sum of All Elements in a Matrix
+Write a program to calculate the sum of all elements in a given 2D matrix.
+
+Example: Input:
+
+
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+Output: 45
+Explanation: The sum of all elements is 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45.
+-------------------------------------------------------------------------------------------------------------
+
+38. Sum of Each Row in a Matrix
+Write a program that calculates and prints the sum of each row in a 2D matrix.
+
+Example: Input:
+
+
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+Output:
+
+
+Row 1 sum: 6
+Row 2 sum: 15
+Row 3 sum: 24
+Explanation: Each row's sum is calculated and printed separately.
+
+-------------------------------------------------------------------------------------------------------------
+
+39. Sum of Each Column in a Matrix
+Write a program to calculate the sum of each column in a 2D matrix.
+
+Example: Input:
+
+
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+Output:
+
+
+Column 1 sum: 12
+Column 2 sum: 15
+Column 3 sum: 18
+Explanation: The sum of each column is calculated and printed.
+-------------------------------------------------------------------------------------------------------------
+
+40. Sum of Diagonal Elements
+Write a program to find the sum of both the primary diagonal and secondary diagonal of a square matrix. The matrix should be of size n x n.
+
+Example: Input:
+
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+Output:
+
+
+Primary Diagonal Sum: 15
+Secondary Diagonal Sum: 15
+Explanation:
+
+The primary diagonal elements are 1, 5, 9, and their sum is 1 + 5 + 9 = 15.
+
+The secondary diagonal elements are 3, 5, 7, and their sum is 3 + 5 + 7 = 15.
+-------------------------------------------------------------------------------------------------------------
+
+41. Sum of Border Elements of a Matrix
+Write a program to calculate the sum of border elements of a 2D matrix. The border elements include the first and last row, as well as the first and last column, excluding the corners that have already been counted.
+
+Example: Input:
+
+
+[
+  [1, 2, 3, 4],
+  [5, 6, 7, 8],
+  [9, 10, 11, 12],
+  [13, 14, 15, 16]
+]
+Output: 68 Explanation: The border elements are: 1, 2, 3, 4, 5, 8, 12, 16, 15, 14, 13, 9. Their sum is 68.
+-------------------------------------------------------------------------------------------------------------
+
+42. Sum of All Odd Numbers in a Matrix
+Write a program to find the sum of all odd numbers in a 2D matrix.
+
+Example: Input:
+
+
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+Output: 25
+Explanation: The odd numbers are 1, 3, 5, 7, 9, and their sum is 1 + 3 + 5 + 7 + 9 = 25.
+-------------------------------------------------------------------------------------------------------------
+
+43. Sum of All Elements in Upper Triangle of Matrix
+Write a program to calculate the sum of the upper triangle of a square matrix (above the main diagonal, including the diagonal).
+
+Example: Input:
+
+
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+Output: 15
+Explanation: The upper triangle elements are 1, 2, 3, 5. Their sum is 1 + 2 + 3 + 5 = 15.
+-------------------------------------------------------------------------------------------------------------
+
+44. Sum of All Elements in Lower Triangle of Matrix
+Write a program to calculate the sum of the lower triangle of a square matrix (below the main diagonal, including the diagonal).
+
+Example: Input:
+
+
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+Output: 27
+Explanation: The lower triangle elements are 1, 4, 5, 7, 8, 9. Their sum is 1 + 4 + 5 + 7 + 8 + 9 = 27.
+-------------------------------------------------------------------------------------------------------------
+
+45. Matrix Sum After Rotation
+Write a program that rotates a matrix by 90 degrees clockwise and then calculates the sum of all the elements in the rotated matrix.
+
+Example: Input:
+
+
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+Output:
+
+
+Rotated Matrix:
+[7, 4, 1]
+[8, 5, 2]
+[9, 6, 3]
+Sum: 45
+Explanation: After rotating the matrix by 90 degrees, you calculate the sum of all elements in the rotated matrix, which remains 45.
+-------------------------------------------------------------------------------------------------------------
+
+46. Sum of Elements in Matrix Without Negative Numbers
+Write a program to calculate the sum of all positive elements in a matrix, ignoring negative values.
+
+Example: Input:
+
+
+[
+  [1, -2, 3],
+  [-4, 5, 6],
+  [7, -8, 9]
+]
+Output: 31
+Explanation: The positive elements are 1, 3, 5, 6, 7, 9, and their sum is 1 + 3 + 5 + 6 + 7 + 9 = 31.
+-------------------------------------------------------------------------------------------------------------
+
+47. Sum of Elements at Even Indices
+Write a program to calculate the sum of all elements at even indices (starting from index 0) in a matrix.
+
+Example: Input:
+
+
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+Output: 15
+Explanation: The elements at even indices are 1, 3, 4, 6, 7, 9. Their sum is 1 + 3 + 4 + 6 + 7 + 9 = 15.
+-------------------------------------------------------------------------------------------------------------
+
+48. Matrix Diagonal Sum with Specific Condition
+Write a program that calculates the sum of the diagonal elements of a matrix but skips every second diagonal element.
+
+Example: Input:
+
+[
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+Output: 9
+Explanation: The diagonal elements are 1, 5, 9. Skipping every second diagonal element leaves 1 and 9, so the sum is 1 + 9 = 9.
